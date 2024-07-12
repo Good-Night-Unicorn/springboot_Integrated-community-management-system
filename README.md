@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/e1567469-790b-40e5-a589-1cf66e87e4a0)## 基于Springboot+vue的综合小区管理系统源代码+LW+数据库)
+## 基于Springboot+vue的综合小区管理系统源代码+LW+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
